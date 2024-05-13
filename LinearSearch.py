@@ -3,6 +3,7 @@ warnings.filterwarnings('ignore')
 
 nums = [2, 3, 9, 8]
 target = 3
+
 def searchInsert(nums, target):
     if len(nums) == 0:
         return -1
