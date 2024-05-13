@@ -7,4 +7,6 @@
    -  whether an element exists within the range of index.
    - Finding the min and max element within an array.
    - Finding the min and max element within the range of an array.
+   - Finding the min and max value in 2D array.
+   - Number of Even Digits in an array
 
