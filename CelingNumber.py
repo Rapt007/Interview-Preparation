@@ -5,6 +5,9 @@ target = 10
 # Ceiling of a number is the smallest number that is equal to or bigger than the target.
 def CeilingNumber(nums, target):
     start, end = 0, len(nums) - 1
+    if target > nums[end]:
+        return "not found"
+
     while start <= end:
         mid = start + int((end-start) / 2)
         if target == nums[mid]:
@@ -19,4 +22,4 @@ def CeilingNumber(nums, target):
 
 
 index = CeilingNumber(nums, target)
-print('Ceiling of a number: ' + str(nums[index]))
+print('Ceiling of a number is at index: ' + str(index))
