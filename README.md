@@ -14,6 +14,8 @@
 2. Binary Search - (Best Case O(1), Worst Case O(log N) )
    - Finding whether an element exist in a sorted array.
    - Ceiling of a number (Smallest Number in an array greater than or equal to Target)
-   - Floor of a number (Biggest number in an array smaller than or equal to Target Ex- arr[2,3,4,6,8], Target = 5 , Floor = 4 and Ceiling = 6)
+   - Floor of a number (Biggest number in an array smaller than or equal to Target Ex- arr = [2,3,4,6,8], Target = 5 , Floor = 4 and Ceiling = 6)
    - Find First and Last Position of Element in Sorted Array(LeetCode, It can be done through two pointers as well in O(n))
    - Find Smallest Letter Greater Than Target(Leet Code)
+   - Search in a sorted Infinite Array (Amazon Question).
+   - find the Peak Index in Mountain Array (Leet Code). 
