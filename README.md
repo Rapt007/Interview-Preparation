@@ -19,3 +19,5 @@
    - Find Smallest Letter Greater Than Target(Leet Code)
    - Search in a sorted Infinite Array (Amazon Question).
    - find the Peak Index in Mountain Array (Leet Code). 
+   - Find Peak Element (Leet Code). This is same as above question and my solution is better than the above one.
+   - Find in Mountain Array(Leet Code).
