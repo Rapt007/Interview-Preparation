@@ -1,4 +1,4 @@
-
+## better soultion is in the FindPeakElement
 def peakIndexInMountainArray(arr):
     start = 1
     end = len(arr) - 2
