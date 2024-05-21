@@ -21,3 +21,6 @@
    - find the Peak Index in Mountain Array (Leet Code). 
    - Find Peak Element (Leet Code). This is same as above question and my solution is better than the above one.
    - Find in Mountain Array(Leet Code).
+   - Search in Rotated Sorted Array (Leet Code)
+   - Binary Search a 2D Matrix (Leet Code)
+   - 
