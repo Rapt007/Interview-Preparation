@@ -22,5 +22,5 @@
    - Find Peak Element (Leet Code). This is same as above question and my solution is better than the above one.
    - Find in Mountain Array(Leet Code).
    - Search in Rotated Sorted Array (Leet Code)
-   - Binary Search a 2D Matrix (Leet Code)
-   - 
+   - Search in a 2D Matrix sorted column and row wise(Leet Code)
+   - Binary Search in 2D Matrix(Leet Code)
